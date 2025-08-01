@@ -1,2 +1,2 @@
 # criptex
-это криптекс с животными
+This is Criptex with animals
