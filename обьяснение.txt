@@ -1,0 +1,5 @@
+
+You can run the project in two ways.
+1) immediately open the file index.html
+2) create a folder on the desktop and import files there
+material took https://www.youtube.com/watch?v=Sq2l6u8JUBI

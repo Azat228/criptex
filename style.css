@@ -1,0 +1,23 @@
+.square{
+    width: 128px;
+    height: 128px;
+    float: left;
+    margin: 10px;
+  
+    border: 1px solid #c0c0c0;
+}
+.conteiner-line{
+   
+    content: "";
+    display: block;
+    width: 100%;
+    clear: both;
+}
+h1{
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+
+body{
+  /* background-image: url(image/bear.png);*/
+}
